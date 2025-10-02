@@ -14,3 +14,14 @@ The workflow is designed as a foundation for flood risk mapping and geospatial a
   <img src="https://github.com/rache3/flood-risk-mapping-aws-etl/blob/main/FRM_Simple_ETL_Architectural%20Diagram.png"/>
 </p>
 
+
+## 🛠️ Prerequisites
+- [Terraform](https://developer.hashicorp.com/terraform/downloads) installed  
+- AWS CLI configured with sufficient IAM permissions  
+- Python 3.x (for ETL scripts)  
+
+## ⚡ Deployment
+```bash
+terraform init
+terraform plan
+terraform apply
