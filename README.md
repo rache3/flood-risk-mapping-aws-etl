@@ -14,12 +14,3 @@ The workflow is designed as a foundation for flood risk mapping and geospatial a
   <img src="https://github.com/rache3/flood-risk-mapping-aws-etl/blob/main/FRM_Simple_ETL_Architectural%20Diagram.png"/>
 </p>
 
-## 📂 Project Structure
-├── main.tf # Core Terraform configuration
-├── s3.tf # S3 data + results buckets
-├── glue.tf # Glue database, ETL job, and crawler
-├── athena.tf # Athena workgroup setup
-├── iam.tf # IAM role + policies for Glue & Athena
-├── etl/
-│ └── flood_etl.py # Python ETL script (placeholder/demo)
-└── architecture.png # AWS Architecture diagram
