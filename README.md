@@ -25,3 +25,20 @@ The workflow is designed as a foundation for flood risk mapping and geospatial a
 terraform init
 terraform plan
 terraform apply
+
+
+📊 Demo Data
+
+Currently uses CSV demo data for testing. Can be extended to geospatial data (GeoTIFF, Shapefiles) in future iterations.
+
+🔮 Future Work
+
+Integrate QuickSight dashboards
+
+Add support for geospatial file formats
+
+Automate ingestion of remote sensing datasets (e.g., Sentinel-2, VIIRS)
+
+Author
+
+Rachel Atia – AWS Cloud | GeoAI | Data & Geospatial Analytics
