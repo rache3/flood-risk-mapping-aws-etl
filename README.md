@@ -11,7 +11,7 @@ The workflow is designed as a foundation for flood risk mapping and geospatial a
 5. **S3 Results Bucket** – Stores query results for downstream use (dashboards, BI tools, ML models).  
 
 <p align="center">
-  <img src="architecture.png" alt="AWS Architecture for Flood Risk Mapping" width="600"/>
+  <img src="https://github.com/rache3/flood-risk-mapping-aws-etl/blob/main/FRM_Simple_ETL_Architectural%20Diagram.png"/>
 </p>
 
 ## 📂 Project Structure
